@@ -38,7 +38,7 @@ Twilio supports HTTP Basic authentication. This allows you to protect the URLs o
 2. Allow `Meta Search`
 3. Go to [Search API], get the `search endpoint` and paste this into `SEARCH_KEY` in `.env`
 
-## Admin info
+## Additional info
 In `.env` write `START_LOCATION` and `START_CITY`
 
 Thats it!
